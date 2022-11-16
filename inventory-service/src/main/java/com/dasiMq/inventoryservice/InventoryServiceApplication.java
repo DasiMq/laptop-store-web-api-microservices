@@ -21,7 +21,7 @@ public class InventoryServiceApplication {
 		return args -> {
 			Inventory inventory = new Inventory();
 			inventory.setSkuCode("Asus_Vivobook 13");
-			inventory.setQuantity(100);
+			inventory.setQuantity(10);
 
 			Inventory inventory1 = new Inventory();
 			inventory1.setSkuCode("Asus_Vivobook 15");
